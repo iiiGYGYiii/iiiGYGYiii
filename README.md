@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola 👋! Soy Omar 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Full Stack con JavaScript (MERN)</strong>.<br/>🌱 Ahora mismo estoy expandiendo mis conocimientos en backend con <strong>Django(Python)</strong><br/> ⚡ Me gusta hacer mi propio pan, el café y salir en bici 🚴‍♂️!<br />¡Te dejo mis redes sociales 👇!</p>
+<p align="center">Soy <strong>Desarrollador Jr Full Stack con JavaScript (MERN)</strong>.<br/>🌱 Ahora mismo estoy expandiendo mis conocimientos en backend con <strong>Django(Python)</strong><br/> ⚡ Me gusta hacer mi propio pan, el café y salir en bici 🚴‍♂️!<br />¡Te dejo mis redes sociales 👇!</p>
 
 <p align="center">
   <a href="https://instagram.com/iiiGYGYiii" target="blank">
