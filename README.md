@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://instagram.com/iiiGYGYiii" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iiiGYGYiii instagram" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/iiiGYGYiii" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iiiGYGYiii twitter" height="28px" width="28px" />
+  </a>
+</p>
+
 <!--
 **iiiGYGYiii/iiiGYGYiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
